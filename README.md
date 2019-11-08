@@ -1,3 +1,3 @@
-# calc_python
+# calc-python
 - GUIアプリケーション作成の練習
 - Python PyQt5で作成
